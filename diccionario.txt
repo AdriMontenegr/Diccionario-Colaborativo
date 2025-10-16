@@ -6,4 +6,5 @@ Algoritmo: Conjunto de pasos definidos para resolver un problema. — Shantal
 Programacion: Proceso de crear instrucciones detalladas para lograr un objetivo. -Jose Gamboa
 Proceso: Serie de acciones o fases sucesivas que se llevan a cabo para lograr un objetivo específico
 Preludio: Aquello que precede y sirve de entrada, preparación o principio a algo. -Fabio Bolivar
+Onírico: Perteneciente o relativo a los sueños. -Andres Medina
 
