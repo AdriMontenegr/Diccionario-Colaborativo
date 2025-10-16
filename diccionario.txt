@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+HEAD
 
 
 
@@ -77,3 +65,20 @@
 
 
 Programacion: Proceso de crear instrucciones detalladas para lograr un objetivo. -Jose Gamboa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proceso: Serie de acciones o fases sucesivas que se llevan a cabo para lograr un objetivo específico
+ origin/main
