@@ -1,1 +1,8 @@
 Oximoron: Es una figura literaria o retórica que consiste en unir dos palabras o ideas opuestas o contradictorias -Sebastian Catala
+Atardecer: Momento del día en que el sol comienza a ocultarse en el horizonte, marcando el fin de la tarde y el inicio de la noche, - Ana La Ruta
+API: Conjunto de funciones o servicios que permiten la comunicación entre aplicaciones. — Pamela Condori
+Alborada: El tiempo que se acerca el amanecer. — Alejandra Sejas
+Algoritmo: Conjunto de pasos definidos para resolver un problema. — Shantal
+Programacion: Proceso de crear instrucciones detalladas para lograr un objetivo. -Jose Gamboa
+Proceso: Serie de acciones o fases sucesivas que se llevan a cabo para lograr un objetivo específico
+
