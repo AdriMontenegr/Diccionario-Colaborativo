@@ -1,1 +1,2 @@
-Proceso: Serie de acciones o fases sucesivas que se llevan a cabo para lograr un objetivo específico
+API: Conjunto de funciones o servicios que permiten la comunicación entre aplicaciones. — Pamela Condori
+
